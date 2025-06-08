@@ -3,10 +3,10 @@
 - Emily: health educator
 - Amelia: music, conductor
 - Julia: burnt out middle school teacher
-- Sophie: black engineer
+- Sophie: black **engineer**
 
 # 1: What you take with you
-## 1: Complete the cycleB
+## 1: Complete the cycle
 
 >[!question]- Motivation: cheese vs owl
 >more motivated with positive goal
@@ -16,13 +16,13 @@
 >Ability to move fluidly through cycles of being human
 
 >[!question]- Burnout technical definition (3)
->1. emotional exhaustion
->	 fatigue from caring too much for too long
+>1. **emotional exhaustion**
+>	- fatigue from caring too much for too long
 >2. depersonalization
->	 depletion of empathy, caring and compassion
+>	- depletion of empathy, caring and compassion
 >3. no sense of accomplishment
->	 unconquerable sense of futility
->	 nothing you do makes any difference
+>	- unconquerable sense of futility
+>	- nothing you do makes any difference
 
 >[!question]- What's an emotion
 >- whole body reaction to stimulus
