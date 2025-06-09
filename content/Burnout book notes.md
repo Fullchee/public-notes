@@ -2,7 +2,7 @@
 
 - Emily: health educator
 - Amelia: music, conductor
-- Julia: burnt out middle school teacher
+- Julia: **burnt** out middle school teacher
 - Sophie: black **engineer**
 
 # 1: What you take with you
@@ -15,12 +15,12 @@
 >[!question]- Definition of wellness
 >Ability to move fluidly through cycles of being human
 
->[!question]- Burnout technical definition (3)
+>[!question]- **Burnout technical definition** (3)
 >1. **emotional exhaustion**
 >	- fatigue from caring too much for too long
->2. depersonalization
+>2. **depersonalization**
 >	- depletion of empathy, caring and compassion
->3. no sense of accomplishment
+>3. **no sense of accomplishment**
 >	- unconquerable sense of futility
 >	- nothing you do makes any difference
 
