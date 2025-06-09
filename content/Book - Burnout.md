@@ -29,20 +29,18 @@
 >	- automatic and instantaneous
 >- tunnels: they arise and pass away
 
->[!question]- Stressor vs stress: attacked by lion
->- lion: the stressor
->- stress: body state
-
->[!question]- Problem with just dealing with stressor (lion)
+>[!question]- Why it's important to distinguish between stressor (lion) and stress
+>- even if you resolve the stressor (lion gets struck by lightning)
+>- you don't feel good, still in physiological stress state
 
 >[!question]- Why we get stuck in the stress cycle (3)
->- chronic stressor
+>- **chronic stressor**
 >	- stressful job -> need to destress every day
 >	- stress eventually outpaces our capacity to handle it
->- safer to be stuck in stress sometimes
+>- **safer to be stuck in stress sometimes**
 >	- catcalled by a dude
 >	- child constantly vigilant of parents
->- (book: social appropriateness)
+>- **Human giver syndrome** (book: social appropriateness)
 >	- can't exercise during a job interview
 >	- can't punch asshole client
 >	- human giver syndrome: it's not nice, it's weak to feel those feelings, impolite
@@ -51,14 +49,9 @@
 >- can't inconvenience others -> can't complete the cycle
 >- self preservation is selfish, can't be selfish
 
->[!question]- Reasons why "Freeze" is evolutionarily useful for people
->- blend in: deer sees predator -> freeze to hopefully go unnoticed
+>[!question]- Why my brain likes "Freeze" response
 >- dissociation and numbness (release endorphins)
->- stall: confusion from unresponsive victim
->- hypervigilance and enhanced perception
->	- then run when the opportunity arises
-
-- freeze response: could happen when coming out of anesthesia
+>	- get crushed by lion -> feel less
 
 
 **TODO: find what works**
@@ -67,6 +60,7 @@
 Ways to complete the stress cycle
 
 - 20 mins of exercise
+	- 
 - relaxation
 	- deep breathing
 	- progressive muscle relaxation
@@ -81,6 +75,8 @@ Ways to complete the stress cycle
 - laughter
 - crying
 - creative expression
+
+
 
 >[!question]- How you know you've completed the cycle
 >- gear shift: able to pedal much more easily suddenly
