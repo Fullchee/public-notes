@@ -1,1 +1,0 @@
-Real Estate Council of Alberta (reca.ca)
