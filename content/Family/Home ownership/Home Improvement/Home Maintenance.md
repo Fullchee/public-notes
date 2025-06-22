@@ -62,3 +62,41 @@
 - cruft in toilet tank: any acid (barkeeper's friend, citric acid)
 - Winter
 	- clean exhaust fan
+
+
+**
+
+1. Moisture
+	1. Check corners of the house, basement
+	2. Moisture, standing water
+2. Mold, mildew
+	1. Can be behind a wall?
+3. Air quality testing
+4. Plumbing
+	1. Plumbing leaks
+	2. Water pressure
+	3. Water tank age
+5. Electrical
+	1. Fuse box: need to replace with circuit breaker (why?)
+6. Window performance
+	1. Foggy, broken seal
+	2. Are they aligned right, do they open?
+	3. Moisture damage near the windows
+7. HVAC
+	1. When was the furnace last cleaned
+	2. Furnace filter
+8. Foundation
+	1. Floors that slope
+	2. Doors that close on their own
+	3. Will need to talk to a structural engineer
+9. Roof
+	1. Curling shingles
+	2. Nails popping
+	3. Missing shingles
+	4. Gutters
+		1. Does the water flow?
+		2. clean the gutters
+10. Hills
+	1. Water being pushed to your home?
+11. Crawl space
+	1. Is there a lot of moisture?
