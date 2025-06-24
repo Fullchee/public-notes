@@ -54,3 +54,8 @@
 ## Clean up
 
 - stiff paint brush: soak in fabric softener + water 
+
+
+> When do you want this policy to be effective?
+
+Ideally, the earlier the policy is in place, the better.
