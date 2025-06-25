@@ -1,9 +1,11 @@
 ## Characters
 
-- Emily: health educator
-- Amelia: music, conductor
-- Julia: **burnt** out middle school teacher
-- Sophie: black **engineer**
+- Authors
+	- Emily: health educator
+	- Amelia: music, conductor
+- Clients
+	- Julia: burnt out middle school teacher
+	- Sophie: black engineer
 
 # 1: What you take with you
 ## 1: Complete the cycle
@@ -14,6 +16,9 @@
 
 >[!question]- Definition of wellness
 >Ability to move fluidly through cycles of being human
+>
+>"The Dao"
+>"if you're hungry, eat. If you're tired, sleep"
 
 >[!question]- **Burnout technical definition** (3)
 >1. **emotional exhaustion**
@@ -24,34 +29,34 @@
 >	- unconquerable sense of futility
 >	- nothing you do makes any difference
 
->[!question]- What's an emotion
+>[!question]- **What's an emotion**
 >- whole body reaction to stimulus
 >	- automatic and instantaneous
 >- tunnels: they arise and pass away
 
->[!question]- Why it's important to distinguish between stressor (lion) and stress
->- even if you resolve the stressor (lion gets struck by lightning)
->- you don't feel good, still in physiological stress state
+>[!question]- Stressor vs stress: attacked by cheetah
+>- cheetah: the stressor
+>- stress: body state
 
->[!question]- Why we get stuck in the stress cycle (3)
->- **chronic stressor**
->	- stressful job -> need to destress every day
->	- stress eventually outpaces our capacity to handle it
->- **safer to be stuck in stress sometimes**
->	- catcalled by a dude
->	- child constantly vigilant of parents
->- **Human giver syndrome** (book: social appropriateness)
->	- can't exercise during a job interview
+>[!question]- Problem with just dealing with stressor (lion)
+>- need to address both, stress doesn't go away when the cause is gone
+>- chased & cheetah gets struck by lightning -> still don't feel good, still in physiological stress state
+
+>[!question]- Why we get stuck in the stress cycle (2)
+>- **chronic stressors**
+>	- stress (from job, family, ...) eventually outpaces our capacity to handle it, de-stress
+>- **being stressed is appropriate in our stressful culture**
+>	- catcalled by a dude -> fighting back is dangerous
+>	- can't stop and meditate during a job interview
 >	- can't punch asshole client
->	- human giver syndrome: it's not nice, it's weak to feel those feelings, impolite
 
->[!question]- Why does human giver syndrome get in the way of completing the cycle?
->- can't inconvenience others -> can't complete the cycle
->- self preservation is selfish, can't be selfish
-
->[!question]- Why my brain likes "Freeze" response
->- dissociation and numbness (release endorphins)
->	- get crushed by lion -> feel less
+>[!question]- 2 scenarios when "Freeze" is evolutionarily useful for antelope around cheetah
+>1. **blend in**: antelope sees cheetah -> freeze to hopefully go unnoticed
+>2. lower predator's guard
+>	- cheetah bites antelope's neck
+>	- antelope freezes, dissociates, feels less pain, falls down
+>	- cheetah notices and fights hyena
+>	- antelope sees chance and runs away
 
 
 **TODO: find what works**
