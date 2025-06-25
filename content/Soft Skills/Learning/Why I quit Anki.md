@@ -1,4 +1,5 @@
-# Why I quit Anki
+> 2025 update: I stopped using Anki again
+> I don't need to improve my Chinese nor my French
 
 !!! note "Aug 2022 update"
 
@@ -53,7 +54,7 @@ In 2020, I started doing Anki more hardcore with learning Chinese and French. I 
 2023 update
 - I'm just not that interested in learning Chinese anymore
 
-![[image-20230409222401546.png]]
+![[Soft Skills/Learning/images/Why I quit Anki/image-20230409222401546.png]]
 
 
 
