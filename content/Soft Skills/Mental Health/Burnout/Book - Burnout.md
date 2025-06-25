@@ -14,25 +14,11 @@
 >more motivated with positive goal
 >people with "cheese" reward completed mazes faster than those with threat of "owl"
 
->[!question]- Definition of wellness
->Ability to move fluidly through cycles of being human
->
->"The Dao"
->"if you're hungry, eat. If you're tired, sleep"
+![[Mental health glossary#^emotion]]
 
->[!question]- **Burnout technical definition** (3)
->1. **emotional exhaustion**
->	- fatigue from caring too much for too long
->2. **depersonalization**
->	- depletion of empathy, caring and compassion
->3. **no sense of accomplishment**
->	- unconquerable sense of futility
->	- nothing you do makes any difference
+![[Mental health glossary#^wellness]]
 
->[!question]- **What's an emotion**
->- whole body reaction to stimulus
->	- automatic and instantaneous
->- tunnels: they arise and pass away
+![[Mental health glossary#^burnout]]
 
 >[!question]- Stressor vs stress: attacked by cheetah
 >- cheetah: the stressor
