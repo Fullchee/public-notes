@@ -49,9 +49,7 @@
 - usually have to step away from stressor and into body
 
 Ways to complete the stress cycle
-
 - 20 mins of exercise
-	- 
 - relaxation
 	- deep breathing
 	- progressive muscle relaxation
