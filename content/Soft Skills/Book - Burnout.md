@@ -14,11 +14,11 @@
 >more motivated with positive goal
 >people with "cheese" reward completed mazes faster than those with threat of "owl"
 
-![[Mental health glossary#^emotion]]
+![[Glossary#^emotion]]
 
-![[Mental health glossary#^wellness]]
+![[Glossary#^wellness]]
 
-![[Mental health glossary#^burnout]]
+![[Glossary#^burnout]]
 
 >[!question]- Stressor vs stress: attacked by cheetah
 >- cheetah: the stressor
