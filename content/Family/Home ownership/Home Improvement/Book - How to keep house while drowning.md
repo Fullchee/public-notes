@@ -9,6 +9,9 @@
 >- executive dysfunction, procrastination, feeling overwhelmed, perfectionism, trauma, amotivation, ...
 
 
+**Why is shame not the best long term motivator?**
+- it freezes you?
+
 Care tasks are morally neutral
 
 When you view care tasks as moral, the motivation is shame.
