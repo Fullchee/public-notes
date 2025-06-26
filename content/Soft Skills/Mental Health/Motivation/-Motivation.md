@@ -1,6 +1,8 @@
 <iframe width="753" height="360" src="https://www.youtube.com/embed/3QWIxElEnc8" title="What People Don&#39;t Get About Motivation." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="753" height="360" src="https://www.youtube.com/embed/RfL0H9IiU9s?start=30" title="How to Unlock Your Motivation." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Each goal pulls you down a bit
+
 <iframe width="753" height="360" src="https://www.youtube.com/embed/-PkWDCEYpGI" title="Psychology of Motivation | Dr.K Explains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="753" height="360" src="https://www.youtube.com/embed/MD0Ei5agKkE" title="Dr. K Becomes the Client with No Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
