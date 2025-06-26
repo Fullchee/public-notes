@@ -1,3 +1,4 @@
+[Goodreads](https://www.goodreads.com/book/show/42397849-burnout)
 ## Characters
 
 - Authors

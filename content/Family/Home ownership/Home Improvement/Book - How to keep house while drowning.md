@@ -1,3 +1,4 @@
+[Goodreads](https://www.goodreads.com/book/show/59616401-how-to-keep-house-while-drowning)
 # Addressing shame
 
 >[!question]- Definition of lazy
