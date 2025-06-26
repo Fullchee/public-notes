@@ -8,4 +8,4 @@ Uses [Quartz](https://quartz.jzhao.xyz/)
 
 Setup the upstream remote to get the latest changes
 
-`git remote add upstream https://github.com/jackyzha0/quartz.git`
+Fetch the latest from the upstream repo with `git pull upstream v4`
