@@ -15,6 +15,8 @@
 >- tunnels: they arise and pass away
 
 ## L
+>[!question]- Love ^Love
+>Erich Fromm
 
 ## T
 ## U
