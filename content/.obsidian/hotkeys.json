@@ -1,0 +1,298 @@
+{
+  "obsidian-auto-link-title:auto-link-title-paste": [],
+  "pane-relief:go-1st": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "pane-relief:go-2nd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "pane-relief:go-3rd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "pane-relief:go-4th": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "pane-relief:go-5th": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+  "pane-relief:go-6th": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "pane-relief:go-7th": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "7"
+    }
+  ],
+  "pane-relief:go-8th": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "8"
+    }
+  ],
+  "pane-relief:go-last": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "9"
+    }
+  ],
+  "pane-relief:win-1st": [],
+  "pane-relief:win-next": [],
+  "pane-relief:go-next": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "advanced-cursors:add-next-match-to-selections": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
+    }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-timestamp-notes:trigger-player": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-timestamp-notes:timestamp-insert": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ]
+}

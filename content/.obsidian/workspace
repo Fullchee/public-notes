@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "2cfd6377e16a6e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a5022d9df1772f9",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/css/css-grid.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":21.14091384722707}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":48},\"to\":{\"line\":18,\"ch\":48}},\"scroll\":6.794520547945205}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":34},\"to\":{\"line\":24,\"ch\":34}},\"scroll\":15.1352}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":125},\"to\":{\"line\":18,\"ch\":125}},\"scroll\":6.794520547945205}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":38},\"to\":{\"line\":22,\"ch\":38}},\"scroll\":15.135218736190897}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":127},\"to\":{\"line\":18,\"ch\":127}},\"scroll\":6.794520547945205}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":20},\"to\":{\"line\":20,\"ch\":20}},\"scroll\":16.379584622182943}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":32},\"to\":{\"line\":18,\"ch\":32}},\"scroll\":0.592692372453275}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":48},\"to\":{\"line\":22,\"ch\":48}},\"scroll\":14.003977021652673}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":126.44785490059296}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-types.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":2}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-lists.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-data-structures.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":108,\"ch\":2},\"to\":{\"line\":108,\"ch\":2}},\"scroll\":129.54342518311825}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":33},\"to\":{\"line\":26,\"ch\":33}},\"scroll\":4.194016319129647}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug-solutions.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":15.603513174404014}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":3},\"to\":{\"line\":19,\"ch\":0}}}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug-solutions.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5a5022d9df1772f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"frontend/javascript/spot-the-bug-solutions.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "frontend/css/css-grid.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2970bf8849bcce5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5e1e22fdbae3b31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eaff51b79291a1f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdcaf633fc71bff8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "enum",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc6182b7f36801ef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "08aa54cbab689ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b9f6f08b1a95ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed28e58e27a4f84",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "frontend/css/css-grid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cd49a769a529685",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "frontend/css/css-grid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7871668b2008d1b3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6dcdf17b36332a96",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "frontend/css/css-grid.md"
+              }
+            }
+          },
+          {
+            "id": "d1ac7e8b8e687416",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f13bc3cbef0f812e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a5022d9df1772f9",
+  "lastOpenFiles": [
+    "backend/python/python-data-structures/python-objects/python-custom-classes/python-custom-classes.md",
+    "frontend/javascript/spot-the-bug.md",
+    "backend/python/python.md",
+    "backend/python/python-data-structures/python-types.md",
+    "backend/python/python-data-structures/python-lists.md",
+    "backend/python/python-data-structures/python-data-structures.md",
+    "frontend/javascript/spot-the-bug-solutions.md",
+    "frontend/javascript/react/refactoring-react.md",
+    "frontend/javascript/react/react-hooks.md",
+    "frontend/design/text-copy.md"
+  ]
+}

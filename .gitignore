@@ -4,8 +4,11 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+
+content/.obsidian/workspace.json
+content/.obsidian/plugins/recent-files-obsidian/data.json
+content/.obsidian/plugins/remember-cursor-position/cursor-positions.json
