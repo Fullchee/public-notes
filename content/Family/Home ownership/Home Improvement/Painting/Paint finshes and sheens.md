@@ -31,3 +31,10 @@ Semi-gloss
 
 Matte paint
 - hides the lap marks between roller
+
+
+Lacquers
+- type of finish that will dry fast (for wood)
+- most commercial cabinet shops use a Lacquer finish
+	- more coats in a shorter time frame
+	- It’s not as hard, unless you start getting into a catalysis lacquer

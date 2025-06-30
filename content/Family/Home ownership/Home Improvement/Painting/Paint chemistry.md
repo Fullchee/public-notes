@@ -7,13 +7,30 @@
 
 - Solvent: evaporates and leaves the paint film behind
 	- usually water
-- Polymer
-	- usually acrylic
+	- keeps it liquid until you're ready to use it
+- Polymer (binders)
+	- usually acrylic latex, or oil
 		- sometimes has polyurethane dispersions
 	- resins that bind the paint to the application surface
 	- makes it scrubbable, washable
 - pigments (colour)
-	- titanium dioxide
+	- titanium dioxide for white
+- additives
+	- eg: in-can stability
+	- Microban (structural)
+	- can improve drying time
+	- texture, sheen
+
+
+Oil vs acrylic latex paint
+- oil fades and turns yellow
+- takes longer to dry
+- can't use oil base on top of water (latex) paint
+
+Enamel
+- marketed as a hard surface
+- traditionally an oil based paint
+
 
 <iframe width="360" height="180" src="https://www.youtube.com/embed/Dg9q4YQ4_qc" title="How Is Paint Made?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
