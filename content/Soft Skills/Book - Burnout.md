@@ -72,8 +72,22 @@ Ways to complete the stress cycle
 >- gear shift: able to pedal much more easily suddenly
 ## 2: Persist
 
+The monitor
+1. What's your goal
+2. your effort
+3. your progress
+
+Stressors within your control: problem-solving
+
+Out of your control: reframing
+
+Redefine winning and failure
+- choir: record the perfect song -> make the producer smile
+
 ## 3: Meaning
 
+- MLK: "I've seen the promised land. I may not get there with you"
+	- 
 
 # 2: The real enemy
 
