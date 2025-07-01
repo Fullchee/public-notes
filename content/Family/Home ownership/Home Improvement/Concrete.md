@@ -16,5 +16,7 @@
 >it's cheap, strong, low
 
 
->[!question]- Concrete's greatest weakness
+>[!question]- Concrete's 2 greatest weaknesses
 >- weak in tension <-->
+>- brittle, doesn't have any give, stretch, not ductile
+>- results in cracks
