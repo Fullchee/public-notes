@@ -8,9 +8,9 @@
 - Solvent: evaporates and leaves the paint film behind
 	- usually water
 	- keeps it liquid until you're ready to use it
-- Polymer (binders)
+- Binders/resins/polymers
 	- usually acrylic latex, or oil
-		- sometimes has polyurethane dispersions
+	- masonry paint: silicone binders (allow moisture vapor to escape -> prevent peeling, blistering)
 	- resins that bind the paint to the application surface
 	- makes it scrubbable, washable
 - pigments (colour)
