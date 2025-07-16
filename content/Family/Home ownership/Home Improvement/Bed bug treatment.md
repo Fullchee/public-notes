@@ -1,11 +1,20 @@
-Chemical treatment
-- Pros
-	- Cheapest
-- Cons
-	- not instant
-	- bed bugs: becoming resistant
+# DIY solutions
+
+# Professional solutions
+
+## Chemical treatment
+
+Pros
+- Cheapest
+
+Cons
+- not super effective
+	- bed bugs are becoming resistant
 		- will die after a few days/weeks
-	- won't get the job done with just one spra
+- need multiple sprays (eg: 2nd spray after 2 weeks)
+- not instant
+- 
+- Quotes
 
 Heat treatment
 - heat the place to 65°C for an hour
@@ -31,17 +40,14 @@ Aprehend (fungal spore)
 Crossfire
 
 
-## Toronto companies
+# Toronto companies
 
 61 Huntington (5 bedrooms, detached home)
 
 - Pestend
 	- No warranty
 	- Option 1: Chemical
-		- $920 + tax, promotion: $828 + tax
-		- two visits 14 days apart
-		- combo of residual spray/dusting products
-		- 
+
 	- Option 2: Heat + Aprehend
 		- $1500 + tax
 - Addison
