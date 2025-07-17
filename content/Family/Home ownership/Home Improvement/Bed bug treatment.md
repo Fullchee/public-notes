@@ -2,8 +2,39 @@
 
 ## What to bring
 
+https://www.reddit.com/r/Bedbugs/comments/ijl7x4/update_on_using_crossfire_in_canada/
+
+- 
+- Alphine WSG
+	- 30-60 days of residual protection
+- Crossfire
+- TEKKO Pro
+	- insect growth 
+
+- PPE
 
 ## At the infestation
+
+1. Inspect
+	1. in the nooks of the bed
+	2. behind power outlets
+	3. baseboards
+2. Prepare
+	1. ensure everything is away from base boards
+	2. take all sheets, pillow cases off and launder them (high heat)
+	3. pillows in dryer
+	4. throw out the box spring, mattress
+3. Treatment
+	1. open all windows
+	2. treat all the seams of the mattress
+	3. any crease
+	4. any legs
+	5. treat inside the box spring (or just throw it out)
+		1. treat around the plastic guards, pull out the felt
+	6. treat all the baseboards
+	7. flip sofas upside down
+4. Future prevention
+	1. 
 
 ## Back at your house
 - all clothes: in wash
@@ -35,7 +66,9 @@ Encasements for bed isn't worth it
 Pros
 - Cheapest
 - over the counter stuff is garbage
-- could include insecticides (neonicotinoid) like (Crossfire, Temprid), Alpine WSG
+- could include insecticides (neonicotinoid) like (Crossfire, Temprid), 
+- Alpine WSG
+	- good chemical for prevention
 
 Cons
 - not super effective
@@ -48,11 +81,14 @@ Cons
 
 Heat treatment
 - heat the place to 65°C for an hour
+	- turn your house into a dryer
 - Pros
 	- immediate results
 - Cons
+	- https://youtu.be/5tZRQn6bir4
 	- can't catch stragglers
-	- possible damage to home
+		- bed bugs will run away from heat to other rooms, insulation
+	- damage to home
 
 Diatomaceous earth
 - can cause lung issues
@@ -61,6 +97,7 @@ Diatomaceous earth
 Aprehend (fungal spore)
 - Pros
 	- very effective (90 day residual)
+	- pretty safe
 - Cons
 	- more expensive (Quoted ~$1500)
 	- not DIY
