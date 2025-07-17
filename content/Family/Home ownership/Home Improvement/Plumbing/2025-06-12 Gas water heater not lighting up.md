@@ -14,7 +14,8 @@ White Rodgers gas water heater thermostat control was getting Error 11
 
 # Solution
 
-https://www.youtube.com/watch?v=6GI2d8q2j8U
+<iframe width="360" height="180" src="https://www.youtube.com/embed/6GI2d8q2j8U" title="FREE Fix! Pilot Light That WON&#39;T STAY LIT on Water Heater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 https://www.youtube.com/watch?v=6GnY0SGEjKM
 
 1. removed the two nuts from the burner assembly
