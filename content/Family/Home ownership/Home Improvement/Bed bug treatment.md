@@ -53,3 +53,6 @@ Crossfire
 - Addison
 	- $2200
 		- 3 month warranty
+- Orkin
+	- 1800 for chemical, 2500 for heat treatment
+	- 3 month warranty
