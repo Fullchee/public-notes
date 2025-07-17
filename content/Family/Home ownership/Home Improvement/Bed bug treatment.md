@@ -1,11 +1,41 @@
-# DIY solutions
+# DIY solution
+
+## What to bring
+
+
+## At the infestation
+
+## Back at your house
+- all clothes: in wash
+- go straight to shower
+- inspect shoes heavily
+
+
+Mark Rober video: DIY chemicals don't work, need to spray on them directly
+- they don't have residuals
+
+
+Diatomaceous earth
+- not that effective
+
+Clothes steamer won't do the job
+- not hot enough
+- too wet
+- too much pressure
+- results in mold in beds
+
+Encasements for bed isn't worth it
+- after using it for a few days, you'll friction rub a hole -> useless
 
 # Professional solutions
 
 ## Chemical treatment
 
+
 Pros
 - Cheapest
+- over the counter stuff is garbage
+- could include insecticides (neonicotinoid) like (Crossfire, Temprid), Alpine WSG
 
 Cons
 - not super effective
@@ -25,19 +55,21 @@ Heat treatment
 	- possible damage to home
 
 Diatomaceous earth
+- can cause lung issues
 
 
 Aprehend (fungal spore)
 - Pros
-	- very effective
+	- very effective (90 day residual)
 - Cons
 	- more expensive (Quoted ~$1500)
 	- not DIY
 	- $150 USD for a 16oz bottle (treats ~6 bedrooms)
-	- 
+	- fungal spore, can cause allergic reactions
 
 
-Crossfire
+
+
 
 
 # Toronto companies
