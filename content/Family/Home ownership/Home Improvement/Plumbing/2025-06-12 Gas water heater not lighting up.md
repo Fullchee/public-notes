@@ -1,4 +1,4 @@
-Water heater didn't have hot water.
+Gas water heater (GSW Superflue 8g50nNVH-ES-02) didn't have hot water.
 
 Pilot flame wasn't lit up.
 
@@ -9,8 +9,7 @@ White Rodgers gas water heater thermostat control was getting Error 11
 3. Restarting didn't fix it, couldn't do a reset either
 	1. https://www.youtube.com/watch?v=vBUN1CcwlNo
 4. Very expensive (hundreds of dollars) to replace
-5. Note: it's auto ignition, so no ignition button
-
+5. Note: it's auto ignition, so no ignition button and don't need a lighter
 
 # Solution
 
@@ -32,4 +31,5 @@ https://www.youtube.com/watch?v=6GnY0SGEjKM
 	2. Then I cleaned up the bent thing (igniter?) which worked!
 6. ![[IMG20250612125027.jpg|200]]
 
-
+Update
+- 
