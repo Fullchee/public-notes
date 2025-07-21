@@ -1,9 +1,15 @@
-Gas water heater (GSW Superflue 8g50nNVH-ES-02) didn't have hot water.
+## Situation
 
-Pilot flame wasn't lit up.
+- Model: GSW Superflue 8G50NVH-ES-02
+- Cat. No: B5787
+
+
+Gas water heater doesn't have a flame lit up didn't have hot water.
+
+
 
 White Rodgers gas water heater thermostat control was getting Error 11
-1. ![[61blX72TvrL._AC_SL1318_.jpg|200]]
+1. ![[61blX72TvrL._AC_SL1318_.jpg|100]]
 2. ![[Pasted image 20250612133252.png]]
 	1. http://waterheatertimer.org/pdf/Intellivent-gas-control-troubleshoot.pdf
 3. Restarting didn't fix it, couldn't do a reset either

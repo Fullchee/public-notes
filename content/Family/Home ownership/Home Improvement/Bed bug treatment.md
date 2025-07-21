@@ -2,16 +2,26 @@
 
 ## What to bring
 
-https://www.reddit.com/r/Bedbugs/comments/ijl7x4/update_on_using_crossfire_in_canada/
+- cleaning
+	- vacuum
+	- broom
+	- cloth
+	- all purpose cleaning solution (or vinegar)
+	- Plastic bags for potentially infested stuff (not generic Dollarama brand, too easily ripped)
+- Prep
+	- Screwdriver (flathead + multi-bit) to unscrew wall plates
+- Application
+	- Diatomaceous earth (can get at Canadian Tire)
+	- powder applicator
+	- Dollarama paintbrush (to make the powder more fine)
+- Maybe garment steamer?
+	- not hot enough
+	- too wet
+	- too much pressure (bugs will fly away)
+	- results in mold in beds
+	- probably doesn't hurt, just not much benefit for the amount of effort
+	- good to have for some things, like clothes though
 
-- 
-- Alphine WSG
-	- 30-60 days of residual protection
-- Crossfire
-- TEKKO Pro
-	- insect growth 
-
-- PPE
 
 ## At the infestation
 
@@ -33,8 +43,6 @@ https://www.reddit.com/r/Bedbugs/comments/ijl7x4/update_on_using_crossfire_in_ca
 		1. treat around the plastic guards, pull out the felt
 	6. treat all the baseboards
 	7. flip sofas upside down
-4. Future prevention
-	1. 
 
 ## Back at your house
 - all clothes: in wash
@@ -42,26 +50,31 @@ https://www.reddit.com/r/Bedbugs/comments/ijl7x4/update_on_using_crossfire_in_ca
 - inspect shoes heavily
 
 
-Mark Rober video: DIY chemicals don't work, need to spray on them directly
-- they don't have residuals
+## DIY stuff that doesn't work
+
+- off the counter chemicals
+	- bed bugs are resistant
+	- no residual, need to directly spray on them to kill them
+	- won't kill eggs
+- Encasements for bed isn't worth it
+	- after using it for a few days, you'll friction rub a hole -> useless
+	- just throw out the mattress
 
 
-Diatomaceous earth
-- not that effective
 
-Clothes steamer won't do the job
-- not hot enough
-- too wet
-- too much pressure
-- results in mold in beds
-
-Encasements for bed isn't worth it
-- after using it for a few days, you'll friction rub a hole -> useless
 
 # Professional solutions
 
-## Chemical treatment
+## Email to company looking for a quote
 
+I have a bed bug infestation in a 5 bedroom detached house that is being rented out.
+
+I'm looking for a fungal (Aprehend) or chemical solution (like Crossfire, Alphine WSG, ...) with a residual period
+
+1. Which compounds do you use?
+2. Do you have a warranty (for example: 90 days)
+3. If (God forbid) bed bugs were spotted 60 days and 80 days in, would someone come in two additional times?
+## Chemical treatment
 
 Pros
 - Cheapest
@@ -100,14 +113,9 @@ Aprehend (fungal spore)
 	- pretty safe
 - Cons
 	- more expensive (Quoted ~$1500)
-	- not DIY
+	- need license to purchase it
 	- $150 USD for a 16oz bottle (treats ~6 bedrooms)
 	- fungal spore, can cause allergic reactions
-
-
-
-
-
 
 # Toronto companies
 
