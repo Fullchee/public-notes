@@ -7,20 +7,7 @@
 		- 63889
 - Serial Number: U0913 F700919
 	- needed to get the part number
-- igniter model number: 100112084
-- Complete kit: 100112061
 
-
-Noble
-- next door 
-
-Wolseley
-- O'Connor and Eglinton, 30 min bike ride
-- 30 Bermondsey Rd, East York
-
-Next plumber (55 research road, by Overlea Costco)
-
-Independent mechanical supply (Scarborough)
 
 Gas water heater doesn't have a flame lit up didn't have hot water.
 
@@ -63,4 +50,30 @@ https://www.youtube.com/watch?v=6GnY0SGEjKM
 	- maybe they built a nest there
 - opened it up and sanded the angled thing even more
 - White Rodgers gas water heater thermostat control still getting Error 11 (A, B, C all lit up)
-- 
+
+
+Called AO Smith (parent company of GSW) to get the part numbers
+- igniter model number: 100112084
+	- $171.83 https://applianceparts.homedepot.ca/product/inv_21352889
+	- ![[530273_aos100112084.jpg|100]]
+	- seems complicated to replace this part too (non trivial way it's embedded in the face plate)
+- Complete kit: 100112061
+	- $267.11 https://applianceparts.homedepot.ca/product/inv_21352881
+	- ![[AOS100112061.jpg|200]]
+	- It's pretty old, might as well buy the whole kit in case it's not just the igniter that's broken
+
+- Home Depot
+	- special order, can't return
+	- $267.11 https://applianceparts.homedepot.ca/product/inv_21352881
+- Noble
+	- (416) 406-5556
+	- super close to home
+	- no refunds for non trades people?
+- Wolseley
+	- O'Connor and Eglinton, 30-min bike ride
+	- 30 Bermondsey Rd, East York
+	- [Return policy](https://www.wolseleyinc.ca/terms-and-conditions-sale.html): All returns are subject to a 25% re-stocking fee. Special orders or non-stock items may be returned if the manufacturer is willing to accept the return
+- Next plumber
+	- 55 research road, by Overlea Costco
+	- Unknown return policy
+- Independent mechanical supply (Scarborough)
