@@ -12,8 +12,11 @@
 
 
 Noble
+- next door 
 
-Wolsely (O'Connor and Eglinton)
+Wolseley
+- O'Connor and Eglinton, 30 min bike ride
+- 30 Bermondsey Rd, East York
 
 Next plumber (55 research road, by Overlea Costco)
 
