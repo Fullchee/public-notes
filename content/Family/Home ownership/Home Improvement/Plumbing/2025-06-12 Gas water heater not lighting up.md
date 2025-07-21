@@ -2,7 +2,22 @@
 
 - Model: GSW Superflue 8G50NVH-ES-02
 - Cat. No: B5787
+- Pilot
+	- one of the cables has 07 68A426B3
+		- 63889
+- Serial Number: U0913 F700919
+	- needed to get the part number
+- igniter model number: 100112084
+- Complete kit: 100112061
 
+
+Noble
+
+Wolsely (O'Connor and Eglinton)
+
+Next plumber (55 research road, by Overlea Costco)
+
+Independent mechanical supply (Scarborough)
 
 Gas water heater doesn't have a flame lit up didn't have hot water.
 
