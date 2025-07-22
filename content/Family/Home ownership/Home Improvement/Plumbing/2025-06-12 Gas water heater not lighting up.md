@@ -64,15 +64,15 @@ Called AO Smith (parent company of GSW) to get the part numbers
 	- $267.11 https://applianceparts.homedepot.ca/product/inv_21352881
 	- ![[AOS100112061.jpg|200]]
 	- It's pretty old, might as well buy the whole kit in case it's not just the igniter that's broken
+	- The Home Depot site doesn't have a preview image
+		- ![[file-20250722094414351.png|100]]
+		- so to get visual confirmation that I'm buying the same part, I image searched for `A.O. Smith 100112061 K,FBA,NAT,20"#31 ORIFICE` and got a different looking part, so I'm not buying from the Home Depot website
+		- ![[file-20250722094342609.png|200]]
 
-## 2025-07-22: Purchase part 100112061
-
-- Home Depot
-	- special order, can't return
-	- $267.11 https://applianceparts.homedepot.ca/product/inv_21352881
+I don't have a plumbing or gas fitting license, so I can't purchase any gas appliance parts from wholesalers 😭
 - Noble
 	- (416) 406-5556
-	- super close to home
+	- Leslieville location closed 😭
 	- no refunds for non trades people?
 - Next plumber
 	- 55 research road, by Overlea Costco or by Polson Pier
